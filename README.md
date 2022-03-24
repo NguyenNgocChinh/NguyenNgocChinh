@@ -1,7 +1,7 @@
 <!-- NguyenNgocChinh -->
 # Hi! My name is Nguyễn Ngọc Chinh
 <a href="#" target="_blank">
-  <img src="svg/nguyenngocchinh.svg" height="300" width="100%" alt="" />
+  <img src="./svg/nguyenngocchinh.svg" height="300" width="100%" alt="" />
 </a>
 
 
@@ -64,7 +64,7 @@
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="NguyenNgocChinh-facebook" />
   </a>
   <a href="https://zalo.me/chinh210399" target="blank">
-      <img width="100" src="images/icon-zalo.png" />
+      <img width="100" src="./images/icon-zalo.png" />
     </a>
   <!-- <a href="https://www.youtube.com/c/TrungquandevOfficial" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="NguyenNgocChinh-youtube" />
