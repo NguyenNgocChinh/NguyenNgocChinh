@@ -87,7 +87,6 @@
 <!-- https://github.com/shravan20/github-readme-quotes -->
 <div align="right">
 
-<!-- ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default) -->
-![Quote](https://github-readme-quotes.herokuapp.com/quote?quotesUrl=https://github.com/ngochan1908/github-readme-quotes/blob/main/customQuotes/quotes.json&theme=onedark&animation=default&layout=default&font=default)
+[Quote](https://github-readme-quotes.herokuapp.com/quote?theme=onedark&animation=default&layout=default&font=default)
 </div>
 
